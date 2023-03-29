@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Alkatra:wght@400;500;600;700&family=Baloo+2:wght@400;500;600;700;800&family=Caveat:wght@400;500;600;700&family=Poppins:wght@200;300;400;500;600&display=swap");
+// font-family: 'Alkatra', cursive;
+// font-family: 'Baloo 2', cursive;
+// font-family: 'Caveat', cursive;
+// font-family: 'Poppins', sans-serif;
+$Alkatra: "Alkatra", cursive;
+$Baloo: "Baloo 2", cursive;
+$caveat: "Caveat", cursive;
+$poppins: "Poppins", sans-serif;
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Alkatra", cursive;
+}
+p,
+span {
+  font-family: "Poppins", sans-serif;
+}
+.special-heading,
+li,
+a {
+  font-family: "Caveat", cursive;
+}
+.hindi-font {
+  font-family: "Baloo 2", cursive;
+}

@@ -1,0 +1,9 @@
+.container {
+  background-color: rgba(203, 209, 204, 0.5);
+  height: 60px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  padding-left: 20px;
+  filter: blur(0.8);
+}/*# sourceMappingURL=header.css.map */
